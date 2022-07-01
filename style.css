@@ -17,3 +17,22 @@
     font-size: 22px;
 
 }
+
+#restart{
+    font-size: 22px;
+}
+
+#copyright_footer{
+    background-color: black;
+    color: red;
+    width: 200px;
+    margin-bottom: 0px;
+}
+
+canvas{
+    box-shadow: 8px 8px 8px 8px aquamarine;
+}
+
+.modal-body{
+    text-align: left;
+}
